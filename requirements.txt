@@ -410,7 +410,7 @@ PyYAML==6.0
 pyzmq==25.0.2
 qrcode==7.4.2
 Quamash==0.6.1
-redis==4.3.4
+redis==4.4.4
 referencing==0.28.4
 reportbug==12.0.0
 repoze.lru==0.7
