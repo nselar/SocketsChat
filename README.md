@@ -1,6 +1,6 @@
 # Socket Chat
 
-Esta es una aplicación simple de chat por sockets implementada en Python, que consta de un servidor y un cliente. El servidor y el cliente se comunican entre sí a través de una red utilizando sockets.
+Aplicación simple de chat en una terminal implementada en Python, que consta de un servidor y un cliente que se comunican entre sí a través de una red usando sockets.
 
 ## Requisitos previos
 
@@ -86,4 +86,4 @@ Antes de ejecutar la aplicación de chat, asegúrate de tener lo siguiente:
 - Para salir del cliente o del servidor, presiona `Ctrl + C`.
 - Esta es una implementación básica y no incluye manejo de errores ni encriptación. Úsala con fines educativos o como punto de partida para tus propios proyectos.
 
-Siéntete libre de contribuir a este proyecto enviando problemas o pull requests.
+Siéntete libre de hacer pull requests explicando qué cambiarías y por qué.
