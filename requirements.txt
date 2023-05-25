@@ -343,7 +343,7 @@ PyGObject==3.42.2
 pygraphviz==1.7
 PyHamcrest==2.0.3
 pyinotify==0.9.6
-PyInstaller==3.5+498e6ee058
+PyInstaller==3.6
 PyJWT==2.6.0
 pylnk3==0.4.2
 pyminifier==2.1
