@@ -1,4 +1,4 @@
-# Socket Chat
+# SocketsChat
 
 Aplicación simple de chat en una terminal implementada en Python, que consta de un servidor y un cliente que se comunican entre sí a través de una red usando sockets.
 
