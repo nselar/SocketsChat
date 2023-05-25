@@ -85,5 +85,6 @@ Antes de ejecutar la aplicación de chat, asegúrate de tener lo siguiente:
 
 - Para salir del cliente o del servidor, presiona `Ctrl + C`.
 - Esta es una implementación básica y no incluye manejo de errores ni encriptación. Úsala con fines educativos o como punto de partida para tus propios proyectos.
+- Se han actualizado las librerías requeridas en `requirements.txt` para resolver las vulnerabilidades con las que contaba el proyecto.
 
 Siéntete libre de hacer pull requests explicando qué cambiarías y por qué.
