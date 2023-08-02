@@ -79,7 +79,7 @@ contourpy==1.0.7
 coverage==6.5.0
 crackmapexec==5.4.0
 crit==3.17.1
-cryptography==39.0.1
+cryptography==41.0.3
 cryptography37==37.0.2
 cupshelpers==1.0
 cvss==2.4
