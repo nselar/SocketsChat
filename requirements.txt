@@ -96,7 +96,7 @@ diskcache==5.4.0
 distlib==0.3.6
 distro==1.8.0
 distro-info==1.5
-Django==3.2.19
+Django==3.2.20
 dnslib==0.9.23
 dnspython==2.3.0
 docker==5.0.3
