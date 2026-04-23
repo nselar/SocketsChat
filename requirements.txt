@@ -483,7 +483,7 @@ typing_extensions==4.4.0
 tzlocal==4.2
 u-msgpack-python==2.3.0
 ufoLib2==0.14.0
-ujson==5.7.0
+ujson==5.12.0
 unicodecsv==0.14.1
 unicrypto==0.0.10
 Unidecode==1.3.6
